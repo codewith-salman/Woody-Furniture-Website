@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <h1>🪵 Woody – Furniture Website</h1>
+  <h1>🪵 Woody – A Furniture Website</h1>
   <p>An elegant and responsive furniture store landing page designed to showcase modern home decor products with style and clarity.</p>
   <img src="Woody%20Furniture/assets/images/screenshot.PNG" alt="Woody Furniture Website Screenshot" width="100%"/>
 </div>
