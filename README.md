@@ -61,8 +61,6 @@ This is a **front-end UI project**, built for:
 - Client demos  
 - Furniture & eCommerce landing page concepts  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -74,8 +72,6 @@ This is a **front-end UI project**, built for:
 - Clean and modern UI principles  
 - Ideal for furniture, interior, or eCommerce UI demos  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -84,8 +80,6 @@ This project is built using:
 
 - **HTML5**  
 - **CSS3**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
