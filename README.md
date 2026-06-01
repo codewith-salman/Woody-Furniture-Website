@@ -17,6 +17,12 @@
 
 <br />
 
+<!-- 🔰 PROJECT LOGO -->
+<img src="Woody%20Furniture/favicon.svg" alt="Amazon Clone Logo" width="120"/>
+
+<br />
+<br />
+
 <h1 align="center">🪵 Woody – Furniture Website</h1>
 
 An elegant and responsive **furniture store landing page**  
